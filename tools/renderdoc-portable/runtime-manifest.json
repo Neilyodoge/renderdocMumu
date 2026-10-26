@@ -1,0 +1,218 @@
+{
+  "version": "1.47",
+  "build_commit": "7ae8ff9bec03bcfc4473f08f5a4adabd907a755c",
+  "archive": "renderdoc-1.47-windows-x64.zip",
+  "archive_bytes": 63438471,
+  "sha256": "cb1fb447527138578c61ed8e294c95141026da6fb15a9bd81839a2cbe5523a1e",
+  "file_count": 41,
+  "uncompressed_bytes": 227029043,
+  "platform": "Windows x64, with x86 capture helper",
+  "build_configuration": "Development",
+  "files": [
+    {
+      "path": "LICENSE.md",
+      "bytes": 1230,
+      "sha256": "460973ef65923285b15f265ed161ff01c03dcd0e2422c3f6c2ffcae2aa4364a1"
+    },
+    {
+      "path": "LICENSES/PySide2-LGPLv3.txt",
+      "bytes": 8349,
+      "sha256": "c76984a7630466e654b95a264515f551c3e32512953af30d88adf264693417b3"
+    },
+    {
+      "path": "LICENSES/credits_acknowledgements.rst",
+      "bytes": 11130,
+      "sha256": "e97e84c74d56a554c6864f97e1e3598ea6c1232d132677a51ff6eeb82d0bc62f"
+    },
+    {
+      "path": "PySide2/QtCore.pyd",
+      "bytes": 2747904,
+      "sha256": "ea6d72074d4f9bd5e8516c6d5b26ebb50a9a314a2b407a49736cc6dcae7bff84"
+    },
+    {
+      "path": "PySide2/QtGui.pyd",
+      "bytes": 2774528,
+      "sha256": "5ac8ccd48c0830cc5f64275be2c101b041f71a91a690365c06019506cc6adf3a"
+    },
+    {
+      "path": "PySide2/QtWidgets.pyd",
+      "bytes": 6498304,
+      "sha256": "5ad5d43cb9c176c330c0dec6e38acf55a447d268adb1c0bd24a55e3ea6b5044f"
+    },
+    {
+      "path": "PySide2/__init__.py",
+      "bytes": 2063,
+      "sha256": "75f767656b5b1885933eb050bd3b0bda789ac713547ca3b3bd8cd0173da32c00"
+    },
+    {
+      "path": "PySide2/_utils.py",
+      "bytes": 10616,
+      "sha256": "4eca0efd20a989db8ebe2a7a807a14562e71196720485d654cd9c48dacd9cb72"
+    },
+    {
+      "path": "PySide2/pyside2.dll",
+      "bytes": 157696,
+      "sha256": "fcb1e1d8509b627e7bbbbb71cfc8c3a8b052a533f482177af11f59b972c22543"
+    },
+    {
+      "path": "Qt5Core.dll",
+      "bytes": 5789696,
+      "sha256": "1dc8fc1791506481ce0af13c305c5aedeb6e71ef092497b4f9d5540e690318b0"
+    },
+    {
+      "path": "Qt5Gui.dll",
+      "bytes": 6052864,
+      "sha256": "a77d5b4e53ec9147c83a144a87ed000c62651289eeb5774915582337094bc933"
+    },
+    {
+      "path": "Qt5Network.dll",
+      "bytes": 1218560,
+      "sha256": "03085617c300648936fa55a606cb461133d5626fb43e4b1f616711cd9b91b133"
+    },
+    {
+      "path": "Qt5Svg.dll",
+      "bytes": 328192,
+      "sha256": "de7d4ce47f1745f99426fa53a6627b6479317494736104839b1d6a0cbf5c6933"
+    },
+    {
+      "path": "Qt5Widgets.dll",
+      "bytes": 5535232,
+      "sha256": "a560d5f57bfbdc32ae983c675cadb3dcfe7f4b5f996d3e15dd83075adef95dd5"
+    },
+    {
+      "path": "_ctypes.pyd",
+      "bytes": 130712,
+      "sha256": "d1cefe49797c06cf39831ec9c4811a6825971f49544d98a2b1547befb789cf99"
+    },
+    {
+      "path": "d3dcompiler_47.dll",
+      "bytes": 4741488,
+      "sha256": "a05f99734f7c4822fefc12b367af21fd0976ed6608752fb1e1e80b6ece7ecbbb"
+    },
+    {
+      "path": "dbghelp.dll",
+      "bytes": 1413072,
+      "sha256": "1387a9f99c2f4342dea0d68208081f936b10a0049d28478c896b808c5c13d057"
+    },
+    {
+      "path": "libcrypto-1_1-x64.dll",
+      "bytes": 2859392,
+      "sha256": "92bb73f0a0daece8f1e0657343ac953de5be274cb4d83b75f9eb37bea81b2592"
+    },
+    {
+      "path": "libssl-1_1-x64.dll",
+      "bytes": 686464,
+      "sha256": "0913ea8afc314d20a5a2279f4ecc0fbb7fd595528bcff496e629eb9f58b72e14"
+    },
+    {
+      "path": "python36.dll",
+      "bytes": 3610776,
+      "sha256": "eb270d660dd70ba890f598431e0e9f814fa84aa2d86231fca953c4eed938b7e9"
+    },
+    {
+      "path": "python36.zip",
+      "bytes": 2288904,
+      "sha256": "f7c60db26b310563debd331500a520d2b9de1034b6bf5055d1f081609ef817aa"
+    },
+    {
+      "path": "qrenderdoc.exe",
+      "bytes": 32770048,
+      "sha256": "c4e485b7c5c08f89bd5d5eb7d8c1e9083a545bf2472bf8cf93a935701a970dee"
+    },
+    {
+      "path": "qtplugins/imageformats/qsvg.dll",
+      "bytes": 26112,
+      "sha256": "400442ca78eaa1340d0b9c0baa14bde76ffad8a86c3b9c51fc95c2283d93c6dd"
+    },
+    {
+      "path": "qtplugins/platforms/qwindows.dll",
+      "bytes": 1341952,
+      "sha256": "be358de3582c19d4d96a9c3e5675c0d3eb603515ec15e59ed44161fd2cbb7124"
+    },
+    {
+      "path": "renderdoc.dll",
+      "bytes": 77231104,
+      "sha256": "8da39edeef56b57bd4b03c187c3796810865295bdc1accd698473d9c46c6f882"
+    },
+    {
+      "path": "renderdoc.json",
+      "bytes": 1625,
+      "sha256": "07111a24c8b1f13f9486a042dcde1a90841e2defff1460fb0a5b950799cf6462"
+    },
+    {
+      "path": "renderdoc_app.h",
+      "bytes": 37355,
+      "sha256": "9d24aa6ade1194e56ab295cc1443dd547ea09a6e67e5000ff5dcc8f65cb1c3f0"
+    },
+    {
+      "path": "renderdoccmd.exe",
+      "bytes": 1442816,
+      "sha256": "731595e3b21a96135ec87ff9d7f4594f78d26821ee85f37b69f57f7960bfc750"
+    },
+    {
+      "path": "renderdocshim64.dll",
+      "bytes": 12288,
+      "sha256": "25cb6cc519f880f67477050b9328c692a08990403b89eae758bf2cce2689ff91"
+    },
+    {
+      "path": "renderdocui.exe",
+      "bytes": 296448,
+      "sha256": "e881b49beb978ca043e69a684e5999cbd570bde1f3a50ce62d47e531fffc4558"
+    },
+    {
+      "path": "shiboken2.dll",
+      "bytes": 188928,
+      "sha256": "6e374f27216d98e839990cd5039d24415ca686d0d535d1fcea83fdf9eaf1d848"
+    },
+    {
+      "path": "symsrv.dll",
+      "bytes": 127944,
+      "sha256": "1d91eab8b40e70c7db6d53d3b15d50bf0784f113307307395302333003b63d98"
+    },
+    {
+      "path": "symsrv.yes",
+      "bytes": 1,
+      "sha256": "36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068"
+    },
+    {
+      "path": "x86/d3dcompiler_47.dll",
+      "bytes": 4147544,
+      "sha256": "0ae6e52072857c3acfde53b98f56c3c6d9bd0e7b09f247ae7f40bfd451593c4c"
+    },
+    {
+      "path": "x86/dbghelp.dll",
+      "bytes": 1138120,
+      "sha256": "000c4ae5e00a1d4de991a9decf9ecbac59ed5582f5972f05b48bc1a1fe57338a"
+    },
+    {
+      "path": "x86/renderdoc.dll",
+      "bytes": 60040192,
+      "sha256": "2459877cfcd194108ccc079ab461bf412364326f0be3be9be8c0f744b89f2599"
+    },
+    {
+      "path": "x86/renderdoc.json",
+      "bytes": 1625,
+      "sha256": "07111a24c8b1f13f9486a042dcde1a90841e2defff1460fb0a5b950799cf6462"
+    },
+    {
+      "path": "x86/renderdoccmd.exe",
+      "bytes": 1232384,
+      "sha256": "161e3459363f50b3523e76c3057ac167192599f8153ee2bffaa735b2bd131d1a"
+    },
+    {
+      "path": "x86/renderdocshim32.dll",
+      "bytes": 11264,
+      "sha256": "5d5adc7f48713a808f3f70cdddf5261cc3e69e43a3a4d6a7409f5f68094adfa0"
+    },
+    {
+      "path": "x86/symsrv.dll",
+      "bytes": 114120,
+      "sha256": "3471912432c03a678aaa2b8b87ccaab671b4600e3a01273d093eb1f0f3b3079e"
+    },
+    {
+      "path": "x86/symsrv.yes",
+      "bytes": 1,
+      "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    }
+  ]
+}

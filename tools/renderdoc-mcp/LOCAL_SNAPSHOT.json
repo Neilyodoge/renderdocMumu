@@ -1,0 +1,108 @@
+{
+  "upstream": "https://github.com/halby24/RenderDocMCP",
+  "version": "1.0.0",
+  "source": "Local source snapshot matching installed server and extension",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "74aca9bea0da34869714c3c757ca7596c9379d3d2070034fd604a591d4a754c4"
+    },
+    {
+      "path": "mcp_server/__init__.py",
+      "sha256": "b81129c5cefb9453e8644e08dfc93bb20202a720aa0fb9fc30e1f653eea0aea1"
+    },
+    {
+      "path": "mcp_server/bridge/__init__.py",
+      "sha256": "2f40e97565ef9fad1c01e225aca8430e734b6139f965add94a13f651ac0cdbef"
+    },
+    {
+      "path": "mcp_server/bridge/client.py",
+      "sha256": "b2d562a5e043e8f10ab7571201a221bffb636a54652df71b3b1665b33f11fc22"
+    },
+    {
+      "path": "mcp_server/config.py",
+      "sha256": "ef3099e6e0f61f80dc85aad570b02945bfc74f91e5adf29acb78bfff6a06e7fd"
+    },
+    {
+      "path": "mcp_server/server.py",
+      "sha256": "3d0854dc5b0e9e0b556a6093e31ac41aa05ffaa6cbfaa27a897a2310ddf04006"
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "31e1112a53f52041441f51b69f61fa3571cba3c38e2f7613e87a667bff33fb2d"
+    },
+    {
+      "path": "README.md",
+      "sha256": "9be0d853af0e86295e4cc7aed5030c1a0089e3462c63bce425028e826c0d05c7"
+    },
+    {
+      "path": "renderdoc_extension/__init__.py",
+      "sha256": "83b8905f12bb5cf0d7a74526256332e5470b0624f9a4e5ef52f96877f8149421"
+    },
+    {
+      "path": "renderdoc_extension/extension.json",
+      "sha256": "799c3c03d42e2e9b39301a4ac6251db7688b16ea2988a5ac2d114216098bd950"
+    },
+    {
+      "path": "renderdoc_extension/renderdoc_facade.py",
+      "sha256": "ff6542e325431e31ca67e3bacf2e05d6226f696b6ad3365724c4c9bb7ac79011"
+    },
+    {
+      "path": "renderdoc_extension/request_handler.py",
+      "sha256": "64a97b218c6ade0c95d2b1fd221f151d8a4fa676541c1ccc23cc25648715117f"
+    },
+    {
+      "path": "renderdoc_extension/services/__init__.py",
+      "sha256": "c9f6b351fb7f0c54cc6d1dcf2baf8c9485c0fe6a49b6c41537ef44e24ee98d1c"
+    },
+    {
+      "path": "renderdoc_extension/services/action_service.py",
+      "sha256": "040b9c2346d18a8f956a89ad94776eb6bec7b930d3f6afc418f44df979c317ef"
+    },
+    {
+      "path": "renderdoc_extension/services/capture_manager.py",
+      "sha256": "c752764b41508989641999fa7055646273e578867fe26560ed83e4e756c26c84"
+    },
+    {
+      "path": "renderdoc_extension/services/pipeline_service.py",
+      "sha256": "4174850a7da22af5c33b1266960f8d0faaa4401c52febcb5830ec2ed96255a51"
+    },
+    {
+      "path": "renderdoc_extension/services/resource_service.py",
+      "sha256": "fd21231d4ab501a5d206d11ab7d9b86bee6bed05560d6d5423b97c9f5e48a37f"
+    },
+    {
+      "path": "renderdoc_extension/services/search_service.py",
+      "sha256": "e783dcac0437ebc0de05be39b2a3210a08f9be3101ac931a805bc67827348c48"
+    },
+    {
+      "path": "renderdoc_extension/socket_server.py",
+      "sha256": "288ccce449c4221733916e0688fd22658e010f8713c3d55c17eb21f3aa6713a0"
+    },
+    {
+      "path": "renderdoc_extension/utils/__init__.py",
+      "sha256": "d0ff83138cf8cf21864d92fa16f57c9111d212e6e1cc2cd0cfad10550f13ab5e"
+    },
+    {
+      "path": "renderdoc_extension/utils/helpers.py",
+      "sha256": "152ce33b697772a2ac3eeb85ae298c42080fabe93a52118179c3fb0c3b536786"
+    },
+    {
+      "path": "renderdoc_extension/utils/parsers.py",
+      "sha256": "0a6ae521d6b95e8287fbd43fb21a928d54452b205ac31974fba8fc1221978c08"
+    },
+    {
+      "path": "renderdoc_extension/utils/serializers.py",
+      "sha256": "2b60d60b00fff9721efc893c5716b8d132d9934be6ebe42dc037b96c7b9b232c"
+    },
+    {
+      "path": "scripts/install_extension.py",
+      "sha256": "0431efbe2ba199647409a3a1ef8d0f4e23fdafa3fb1be9ba0c6bd440eb9a9505"
+    },
+    {
+      "path": "uv.lock",
+      "sha256": "c2ccf40f3b368307a6620334b356ccda3f63d8e7a1afbd09e9eaa2454ac914af"
+    }
+  ],
+  "line_endings": "LF; normalized for stable hashes after cloning"
+}

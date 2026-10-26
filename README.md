@@ -1,5 +1,7 @@
 以下为本分支新增的功能和修复，后附完整原版 README；也可查看 [RenderDoc 官方 README](https://github.com/baldurk/renderdoc/blob/v1.x/README.md)。
 
+本仓库附带可直接运行的 RenderDoc 1.47、MCP 扩展和服务端，安装与启动方法见 [tools 工具目录](tools/README.md)。PySide2 构建依赖的恢复步骤见 [本地环境说明](LOCAL_SETUP.md)。
+
 # RenderDoc · YiMeng 分支
 
 - **FBX 网格导出**：在 Mesh Viewer 导出单个网格，或在 Event Browser 按事件、标记组和实例批量导出。支持顶点属性映射、多组 UV/颜色、自定义数据，以及可选的分量重映射、归一化和 UV 翻转。需启用 Autodesk FBX SDK；不重建材质、骨骼或动画。[使用与构建说明](qrenderdoc/FBX_EXPORT.md)
